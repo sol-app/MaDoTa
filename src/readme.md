@@ -1,6 +1,6 @@
 ## Public data
 ***This is the public information, before the launching app***.\
-The MVP ise ready. Without need installation and High speed.\
+The MVP is ready. Without need installation and High speed.\
 **Users: crypto investors, crypto companies, crypto startups, crypto developers**.
 
 #

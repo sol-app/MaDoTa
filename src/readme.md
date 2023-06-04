@@ -1,3 +1,7 @@
+- Presentation [preview](https://www.canva.com/design/DAFkyB-WaWs/qUEvpsWfEpqweATvxn0S2w/view)
+- Roadmap [preview](https://www.canva.com/design/DAFkyvm384w/0i8M9XaJh2rfX0n6-orKHA/view?website#4)
+
+#
 
 Where idea came from:
 - [MaDoTa](https://github.com/sol-app/MaDoTa/blob/main/src/How%20we%20run%20madota.pdf)

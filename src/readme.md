@@ -1,3 +1,8 @@
+## Public data
+This is the public information, before the launching app.
+
+#
+
 - Presentation [preview](https://www.canva.com/design/DAFkyB-WaWs/qUEvpsWfEpqweATvxn0S2w/view)
 - Roadmap [preview](https://www.canva.com/design/DAFkyvm384w/0i8M9XaJh2rfX0n6-orKHA/view?website#4)
 
